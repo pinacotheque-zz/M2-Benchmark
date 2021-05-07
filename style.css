@@ -1,0 +1,15 @@
+*{
+    font-family: 'Tajawal', sans-serif;
+}
+body{
+    background-color: rgb(230, 227, 227);
+}
+div h3{
+    font-size: 20px;
+    font-weight: 800;
+}
+
+#generalBody{
+    margin-top: 30px;
+   
+}
